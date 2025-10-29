@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🎬 Movie Recommendation System
 
-<!--
-**RATIKANTA2003/RATIKANTA2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A content-based **Movie Recommendation System** that suggests movies similar to the one you like — based on genres, keywords, cast, and overview using **TF-IDF Vectorization** and **Cosine Similarity**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Features
+- Suggests movies similar to the one entered by the user  
+- Uses **content-based filtering**  
+- Built using **Python, Pandas, Scikit-learn, NumPy**  
+- Works with **large movie datasets (like TMDB)**  
+- Fast and easy to use
+
+---
+
+## 🧩 Tech Stack
+- **Programming Language:** Python  
+- **Libraries Used:** pandas, numpy, scikit-learn, scipy, tqdm  
+- **Dataset:** movies.csv  
+
+---
+
+## 📂 Project Structure
