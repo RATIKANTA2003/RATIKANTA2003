@@ -1,23 +1,53 @@
-# 🎬 Movie Recommendation System
+# 👋 Hi there, I'm Ratikanta Pati
 
-A content-based **Movie Recommendation System** that suggests movies similar to the one you like — based on genres, keywords, cast, and overview using **TF-IDF Vectorization** and **Cosine Similarity**.
+### 💻 B.Tech CSE Student | AI & Cybersecurity Enthusiast | Developer
 
----
-
-## 🚀 Features
-- Suggests movies similar to the one entered by the user  
-- Uses **content-based filtering**  
-- Built using **Python, Pandas, Scikit-learn, NumPy**  
-- Works with **large movie datasets (like TMDB)**  
-- Fast and easy to use
+I'm passionate about **Artificial Intelligence, Cybersecurity, and Web Development**.  
+I love building real-world projects that combine creativity with technology.  
+Currently exploring **Generative AI** and working on a **Movie Recommendation System 🎬**
 
 ---
 
-## 🧩 Tech Stack
-- **Programming Language:** Python  
-- **Libraries Used:** pandas, numpy, scikit-learn, scipy, tqdm  
-- **Dataset:** movies.csv  
+### 🚀 Skills & Tools
+
+- **Languages:** Python, C, Java, JavaScript  
+- **AI/ML:** Scikit-learn, TensorFlow, Pandas, NumPy  
+- **Web Development:** HTML, CSS, React, Node.js  
+- **Database:** MySQL, MongoDB  
+- **Cybersecurity:** Kali Linux, Wireshark, Metasploit  
 
 ---
 
-## 📂 Project Structure
+### 🌱 Currently Learning
+
+- Advanced Python & Machine Learning  
+- Ethical Hacking and Cyber Defense  
+- Building AI-powered Applications  
+
+---
+
+### 🎯 Featured Projects
+
+- 🎬 [Movie Recommendation System](https://github.com/RatikantaPati/movie-recommendation)  
+- 🧠 [AI Text Generator](https://github.com/RatikantaPati/text-generator)  
+- 🔒 [Cybersecurity Lab Setup Guide](https://github.com/RatikantaPati/cyber-lab)  
+
+---
+
+### 📊 GitHub Stats
+
+![Ratikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=RatikantaPati&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatikantaPati&layout=compact&theme=radical)  
+
+---
+
+### 📫 Connect With Me
+
+- 📧 **Email:** ratikantapati@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/ratikantapati)  
+- 🧑‍💻 [GitHub](https://github.com/RatikantaPati)  
+
+---
+
+⚡ **Fun fact:** I love debugging complex code while listening to lo-fi beats 🎧  
+
