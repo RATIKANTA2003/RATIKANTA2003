@@ -36,7 +36,7 @@ It uses **content-based filtering** with **TF-IDF Vectorization** and **Cosine S
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RatikantaPati/movies_recommendater.git
+   https://github.com/RATIKANTA2003/RATIKANTA2003.git
    ```
 2. Install the dependencies:
 
